@@ -1,0 +1,10 @@
+C:\SeleniumwithC#\SDInterviewPractise\SDInterviewPractise\bin\Debug\SDInterviewPractise.dll
+C:\SeleniumwithC#\SDInterviewPractise\SDInterviewPractise\bin\Debug\SDInterviewPractise.pdb
+C:\SeleniumwithC#\SDInterviewPractise\SDInterviewPractise\bin\Debug\nunit.framework.dll
+C:\SeleniumwithC#\SDInterviewPractise\SDInterviewPractise\bin\Debug\WebDriver.dll
+C:\SeleniumwithC#\SDInterviewPractise\SDInterviewPractise\bin\Debug\WebDriver.Support.dll
+C:\SeleniumwithC#\SDInterviewPractise\SDInterviewPractise\bin\Debug\nunit.framework.xml
+C:\SeleniumwithC#\SDInterviewPractise\SDInterviewPractise\bin\Debug\WebDriver.xml
+C:\SeleniumwithC#\SDInterviewPractise\SDInterviewPractise\bin\Debug\WebDriver.Support.xml
+C:\SeleniumwithC#\SDInterviewPractise\SDInterviewPractise\obj\Debug\SDInterviewPractise.dll
+C:\SeleniumwithC#\SDInterviewPractise\SDInterviewPractise\obj\Debug\SDInterviewPractise.pdb
